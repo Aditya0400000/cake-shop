@@ -132,6 +132,7 @@ nav .fa{
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 10px;
+    padding-right: 10px;
     list-style: none;
     box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.1);
 }
@@ -454,6 +455,7 @@ nav .fa{
     gap: 30px;
 }
 }
+
 
 
 
