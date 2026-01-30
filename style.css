@@ -131,8 +131,7 @@ nav .fa{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 10px;
-    padding-right: 10px;
+    padding: 30px;
     list-style: none;
     box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.1);
 }
@@ -420,7 +419,7 @@ nav .fa{
     justify-content: center;
 }
 .blog .blog-images ul li{
-    padding: 10px;
+    padding-bottom: 10px;
 }
 .about-sec{
     display: flex;
@@ -455,6 +454,7 @@ nav .fa{
     gap: 30px;
 }
 }
+
 
 
 
