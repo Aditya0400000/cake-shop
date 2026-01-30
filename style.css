@@ -416,7 +416,7 @@ nav .fa{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 }
 .blog .blog-images ul li{
     padding: 10px;
@@ -454,4 +454,5 @@ nav .fa{
     gap: 30px;
 }
 }
+
 
